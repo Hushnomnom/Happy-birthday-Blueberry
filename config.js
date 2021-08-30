@@ -1,18 +1,18 @@
 const CONFIG = {
-    introTitle: 'Miu à!',
-    introDesc: `Em có phải là một nhà ảo thuật không?
-    Tại sao mỗi khi anh nhìn em 
-    Thì mọi thứ xung quanh đều biến mất?`,
-    btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
+    introTitle: 'Thanh Dâu!',
+    introDesc: `Anh biết em là con nhà lính,
+    nhưng mà từ giờ là 
+    tính vào nhà anh !`,
+    btnIntro: 'Con dâu bác Việt',
+    title: 'Cả biển người anh chỉ thấy em trong mắt 😙',
+    desc: 'Cả rừng thanh âm chỉ nghe tiếng em trong vắt ',
+    btnYes: 'Yêu lắm mới chọn cái này <33',
+    btnNo: 'Khum iu. Ghét thế nhở 🤧',
+    question:'Sinh nhật này em muốn quà gì 🤔',
     btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu anh nhất trên đời <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Yêu nhiều là bao nhiêu?',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://www.messenger.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    reply: 'Chỉ cần có anh là đụ 😙',
+    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘',
+    messDesc: 'Âm và Dương lịch😘. Yêu em cả 2 dòng thời gian.',
+    btnAccept: 'Triệu hồi YangYang',
+    messLink: 'https://www.facebook.com/nguyen.duongkhac' 
 }
